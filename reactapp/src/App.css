@@ -1,0 +1,10 @@
+.App {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("file:///D:/College Works/App/Day 2/Login Validation/my-app/pexels-ricky-esquivel-4011762.jpg");
+}
